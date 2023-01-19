@@ -1,0 +1,64 @@
+.banner {
+    background-color: blue;
+    height: 100px;
+}
+
+.banner-2 {
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.footer {
+    background: navy;
+    
+}
+.footer-2 {
+    background: navy;
+    height: 80px;
+    
+}
+.email {
+    background-color: navy;
+    
+    border-style: none;
+    border-bottom: 1.5px solid white;
+}
+
+.form-border {
+    border: 2px solid blue;
+    width: 100%;
+
+}
+
+.form-2-border {
+    border-style: none;
+    border-bottom: 1px solid blue;
+    
+    
+}
+
+
+.sign-in-border {
+    
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.for-div {
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-h {
+    border: 1px solid blue;
+    width: 60vh;
+    padding: 20px;
+}
+
+
+
+
